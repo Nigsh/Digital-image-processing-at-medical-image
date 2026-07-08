@@ -80,6 +80,4 @@ multi-method segmentation — applied in a way that mirrors a real biomedical im
 workflow (e.g. denoising a scan, enhancing contrast, segmenting a region of interest, and
 cleaning up the resulting mask before measurement).
 
-## Author
 
-Debebe Nigatu — Biomedical Engineering, Addis Ababa University (AAiT)
