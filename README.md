@@ -6,7 +6,7 @@ general images and medical images (MRI/microscopy), so it doubles as a general D
 biomedical imaging mini-project.
 
 Available in two forms:
-- **Jupyter notebook** (`notebooks/dip_toolkit.ipynb`) — fully executed, with explanations, great for reading through on GitHub
+- **Jupyter notebook** (`notebooks/dip_toolkit.ipynb`) — fully executed, with explanations
 - **Streamlit app** (`streamlit_app/app.py`) — interactive, upload your own image and tune parameters live
 
 ## Techniques Covered
